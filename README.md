@@ -31,3 +31,4 @@ To get a better understanding of the workflow of a Machine Learning project, hav
 2. https://medium.com/analytics-vidhya/workflow-guide-to-machine-learning-c0545c843f04 (My blog on machine learning do read it!!)
 
 3. https://medium.com/@NotAyushXD/workflow-of-a-machine-learning-project-ec1dba419b94
+4. https://www.kaggle.com/digvijayyadav/titanic-codesprediction (Do upvote it if you like my kernel)
